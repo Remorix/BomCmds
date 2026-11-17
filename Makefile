@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: Copyright (c) 2026 Torrekie
+# SPDX-License-Identifier: BSD-2-Clause
+
 PROGS?=		lsbom mkbom ditto
 
 CFLAGS?=	-g -O2

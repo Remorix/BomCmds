@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: Copyright (c) 2026 Torrekie
+SPDX-License-Identifier: BSD-2-Clause
+-->
+
 # BomCmds
 Function-to-function identical implementation of `lsbom`, `mkbom`, `ditto` for non-macOS
 
@@ -10,3 +15,7 @@ Minimal target has not been tested yet, but should at least supporting Darwin 19
 
 - [ ] Standalone Bom.framework implementation
 - [ ] CoreFoundation-less port for non-Darwin systems
+
+### Licensing
+
+See [LICENSING.md](LICENSING.md) for the license terms and the files they cover.
